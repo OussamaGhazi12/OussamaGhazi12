@@ -100,9 +100,6 @@ A complete company website with:
 
 <div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:20px;">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=OussamaGhazi12&show_icons=true&theme=tokyonight" height="160" style="border-radius:10px;"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OussamaGhazi12&layout=compact&theme=tokyonight" height="160" style="border-radius:10px;"/>
   
   <img src="https://streak-stats.demolab.com?user=OussamaGhazi12&theme=tokyonight&hide_border=false" height="160" style="border-radius:10px;"/>
 

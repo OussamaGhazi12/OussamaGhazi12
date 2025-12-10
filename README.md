@@ -104,7 +104,8 @@ A complete company website with:
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OussamaGhazi12&layout=compact&theme=tokyonight" height="160" style="border-radius:10px;"/>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OussamaGhazi12&theme=tokyonight" height="160" style="border-radius:10px;"/>
+  <img src="https://streak-stats.demolab.com?user=OussamaGhazi12&theme=tokyonight&hide_border=false" height="160" style="border-radius:10px;"/>
+
 
 </div>
 

@@ -96,30 +96,13 @@ A complete company website with:
 ---
 
 
-## 📈 GitHub Stats & Activity
+## 📈 GitHub Overview (Stable — No External API)
 
 <div align="center">
 
-  <a href="https://github.com/OussamaGhazi12">
-    <img 
-      src="https://github-readme-stats-git-masterorg-anuraghazra.vercel.app/api?username=OussamaGhazi12&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" 
-      height="165"
-    />
-  </a>
-
-  <a href="https://github.com/OussamaGhazi12">
-    <img 
-      src="https://github-readme-stats-git-masterorg-anuraghazra.vercel.app/api/top-langs/?username=OussamaGhazi12&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" 
-      height="165"
-    />
-  </a>
-
-  <a href="https://github.com/OussamaGhazi12">
-    <img 
-      src="https://streak-stats.demolab.com?user=OussamaGhazi12&theme=tokyonight&hide_border=true&border_radius=12" 
-      height="165"
-    />
-  </a>
+| 📊 Overall Activity | 🔥 Commit Heatmap | 🧭 Profile Summary |
+|--------------------|------------------|-------------------|
+| <img src="https://github-readme-stats.vercel.app/api?username=OussamaGhazi12&show_icons=true&theme=tokyonight&hide_border=true" height="165"/> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=OussamaGhazi12&theme=tokyonight&hide_border=true" height="165"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OussamaGhazi12&layout=compact&theme=tokyonight&hide_border=true" height="165"/> |
 
 </div>
 

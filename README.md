@@ -1,34 +1,33 @@
-<!-- HEADER TITLE -->
+<!-- HEADER -->
 <h1 align="center">
   <span style="color:#00C9FF;">Hi, I'm</span> 
   <span style="color:#92FE9D;">Oussama 👋</span>
 </h1>
 
-<!-- SUB TITLE -->
 <p align="center">
   <strong>
     <span style="color:#8be9fd;">Full Stack Developer</span> — 
-    <span style="color:#bd93f9;">Laravel, React & API Engineering</span>
+    <span style="color:#bd93f9;">Laravel | React | API Engineering</span>
   </strong>
   <br>
-  <span style="color:#888;">Focused on writing clean code & building real scalable systems.</span>
+  <span style="color:#888;">Writing clean code & building scalable web systems.</span>
 </p>
 
 <!-- TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00C9FF&size=22&center=true&vCenter=true&width=550&lines=Full+Stack+Developer;Laravel+%7C+React+%7C+Node.js;API+Architecture+%7C+Clean+Code;WordPress+Themes+%7C+Web+Design;Dark+Mode+Enthusiast+%F0%9F%94%A5;Always+Learning+%26+Building+%F0%9F%9A%80"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=00C9FF&size=22&center=true&vCenter=true&width=550&lines=Full+Stack+Developer;Laravel+%7C+React+%7C+Node.js;API+Architecture+%7C+Clean+Code;WordPress+Themes+%7C+Web+Design;Always+Learning+%26+Building+%F0%9F%9A%80"/>
 </p>
 
 ---
 
 ## 🚀 <span style="color:#00C9FF;">About Me</span>
 
-- 🔧 Specialized in **Laravel**, **React**, **Node.js**, **WordPress custom themes**
-- 🧩 I design **clean architectures** & scalable API systems
-- 📦 Experience with **Kommo CRM API**, dashboards & Excel exports
-- 🎨 Strong UI/UX sense using **Bootstrap, SASS, Figma**
-- 🐳 Learning **Docker**, **CI/CD**, **DevOps fundamentals**
-- 📚 Passionate about modern web development & performance
+- 🔧 Specialized in **Laravel, React, Node.js, WordPress custom themes**  
+- 🧩 Designing **clean architectures** & scalable API systems  
+- 📦 Experienced with **Kommo CRM API, dashboards & Excel exports**  
+- 🎨 UI/UX with **Bootstrap, SASS, Figma**  
+- 🐳 Learning **Docker, CI/CD, DevOps basics**  
+- 💡 Passionate about **high-performance web development**
 
 ---
 
@@ -74,24 +73,20 @@
 - UI/UX improvements & JS interactions  
 - Deployment: **inspirigence.tech**
 
----
-
 ### 🔹 **Advanced Laravel API Starter**
 - JWT / Sanctum Auth  
 - Repository & Service pattern  
 - Global Exception Handler  
 - API Resources + Data Transformers  
 - Caching, Rate limiting  
-- Production-ready folder structure  
-
----
+- Production-ready folder structure
 
 ### 🔹 **Garage Management System (Laravel + React)**
 - Appointments/CRUD  
 - Product management  
 - Category filters  
 - Admin panel dashboard  
-- REST API + React front integration  
+- REST API + React front integration
 
 ---
 
@@ -108,8 +103,8 @@
 
 # 📫 <span style="color:#00C9FF;">Contact</span>
 
-- 📧 **oussama.ghazi2003@gmail.com**
-- 🌍 Portfolio: *coming soon*
+- 📧 **oussama.ghazi2003@gmail.com**  
+- 🌍 Portfolio: *coming soon*  
 - 💼 LinkedIn: *coming soon*
 
 ---

@@ -65,57 +65,7 @@ I love designing clean architectures, solving real problems, and delivering mode
 
 ---
 
-## 📂 Featured Projects
-
-<div align="center" style="display:flex; flex-direction:column; gap:30px; max-width:800px; margin:auto;">
-
-  <!-- Project 1 -->
-  <div style="background:#0d1117; padding:20px; border-radius:12px; box-shadow:0 5px 15px rgba(0,0,0,0.3); width:100%;">
-    <h3 style="color:#58a6ff;">🔹 WordPress Custom Theme + Kommo API Integration</h3>
-    <p style="color:#c9d1d9; margin-top:5px;">
-      Complete company website with:
-    </p>
-    <ul style="color:#8b949e;">
-      <li>Custom theme (PHP + JS)</li>
-      <li>Contact form → Database + Kommo CRM</li>
-      <li>Admin dashboard + Excel export</li>
-      <li>UX improvements & smooth animations</li>
-      <li>Deployment on <strong style="color:#79c0ff;">inspirigence.tech</strong></li>
-    </ul>
-  </div>
-
-  <!-- Project 2 -->
-  <div style="background:#0d1117; padding:20px; border-radius:12px; box-shadow:0 5px 15px rgba(0,0,0,0.3); width:100%;">
-    <h3 style="color:#58a6ff;">🔹 Advanced Laravel API Starter</h3>
-    <p style="color:#c9d1d9; margin-top:5px;">
-      Professional API boilerplate for Laravel projects:
-    </p>
-    <ul style="color:#8b949e;">
-      <li>Sanctum / JWT authentication</li>
-      <li>Repository & Service pattern</li>
-      <li>Custom Exceptions & Global Error Handling</li>
-      <li>Rate Limiting / Caching</li>
-      <li>Clean, production-ready folder structure</li>
-    </ul>
-  </div>
-
-  <!-- Project 3 -->
-  <div style="background:#0d1117; padding:20px; border-radius:12px; box-shadow:0 5px 15px rgba(0,0,0,0.3); width:100%;">
-    <h3 style="color:#58a6ff;">🔹 Garage Management System (Laravel + React)</h3>
-    <p style="color:#c9d1d9; margin-top:5px;">
-      Full-featured garage management platform:
-    </p>
-    <ul style="color:#8b949e;">
-      <li>Appointments CRUD & Reservations</li>
-      <li>Product & Category management with filters</li>
-      <li>Admin dashboard panel</li>
-      <li>REST API communication with React frontend</li>
-      <li>Smooth UX & responsive design</li>
-    </ul>
-  </div>
-
-</div>
-
+## 📂 Featured Projects ### 🔹 **WordPress Custom Theme + Kommo API Integration** A complete company website with: - Custom theme (PHP + JS) - Contact form → Database + Kommo CRM - Admin dashboard + Excel export - UX improvements & animations - Deployment on **inspirigence.tech** --- ### 🔹 **Advanced Laravel API Starter** - Sanctum / JWT - Repository Pattern - Custom Exceptions - Rate Limiting / Caching - Clean folder structure --- ### 🔹 **Garage Management System (Laravel + React)** - Reservations - Product management - Categories + filters - Admin panel - API communication
 ---
 
 

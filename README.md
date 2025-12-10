@@ -98,15 +98,43 @@ A complete company website with:
 
 ## 📈 GitHub Stats & Activity
 
-<div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:20px;">
+<div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=OussamaGhazi12&show_icons=true&theme=tokyonight" height="160" style="border-radius:10px;"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OussamaGhazi12&layout=compact&theme=tokyonight" height="160" style="border-radius:10px;"/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OussamaGhazi12&theme=tokyonight" height="160" style="border-radius:10px;"/>
+  <!-- Main Stats -->
+  <a href="https://github.com/OussamaGhazi12">
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=OussamaGhazi12&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12"
+      height="165"
+      style="margin:10px; transition:0.3s; border-radius:12px;"
+      onmouseover="this.style.transform='scale(1.05)'; this.style.filter='drop-shadow(0 0 8px #38bdf8)';"
+      onmouseout="this.style.transform='scale(1)'; this.style.filter='none';"
+    />
+  </a>
+
+  <!-- Top Languages -->
+  <a href="https://github.com/OussamaGhazi12">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=OussamaGhazi12&layout=compact&theme=tokyonight&hide_border=true&border_radius=12"
+      height="165"
+      style="margin:10px; transition:0.3s; border-radius:12px;"
+      onmouseover="this.style.transform='scale(1.05)'; this.style.filter='drop-shadow(0 0 8px #a78bfa)';"
+      onmouseout="this.style.transform='scale(1)'; this.style.filter='none';"
+    />
+  </a>
+
+  <!-- Streak Stats -->
+  <a href="https://github.com/OussamaGhazi12">
+    <img 
+      src="https://github-readme-streak-stats.herokuapp.com/?user=OussamaGhazi12&theme=tokyonight&hide_border=true&border_radius=12"
+      height="165"
+      style="margin:10px; transition:0.3s; border-radius:12px;"
+      onmouseover="this.style.transform='scale(1.05)'; this.style.filter='drop-shadow(0 0 8px #f472b6)';"
+      onmouseout="this.style.transform='scale(1)'; this.style.filter='none';"
+    />
+  </a>
 
 </div>
+
 
 
 

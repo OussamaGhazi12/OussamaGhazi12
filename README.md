@@ -100,11 +100,28 @@ A complete company website with:
 
 <div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:20px;">
 
-  
-  <img src="https://streak-stats.demolab.com?user=OussamaGhazi12&theme=tokyonight&hide_border=false" height="160" style="border-radius:10px;"/>
-
+  <img 
+    src="https://streak-stats.demolab.com?user=OussamaGhazi12&theme=tokyonight&hide_border=false" 
+    height="160" 
+    style="
+      border-radius:10px;
+      animation: fadeIn 1.5s ease-in-out;
+      transition: transform 0.3s ease;
+    "
+    onmouseover="this.style.transform='scale(1.05)'"
+    onmouseout="this.style.transform='scale(1)'"
+  />
 
 </div>
+
+<!-- Animation CSS -->
+<style>
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(10px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+</style>
+
 
 
 

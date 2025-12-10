@@ -94,17 +94,23 @@ A complete company website with:
 - API communication  
 
 ---
-
 ## 📈 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OussamaGhazi12&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OussamaGhazi12&layout=compact&theme=tokyonight" height="160"/>
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OussamaGhazi12&theme=tokyonight" height="160" />
+  <!-- GitHub general stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=OussamaGhazi12&show_icons=true&theme=tokyonight" style="max-width:100%; margin-bottom:12px;">
 </p>
 
----
+<p align="center">
+  <!-- Top languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OussamaGhazi12&layout=compact&theme=tokyonight" style="max-width:100%; margin-bottom:12px;">
+</p>
+
+<p align="center">
+  <!-- Streak stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OussamaGhazi12&theme=tokyonight" style="max-width:100%;">
+</p>
+
 
 ## 📫 Contact
 

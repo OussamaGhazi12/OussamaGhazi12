@@ -96,17 +96,21 @@ A complete company website with:
 ---
 
 
-## 📈 GitHub Stats & Activity
+## 📈 GitHub Analytics
 
 <div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:20px;">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=OussamaGhazi12&show_icons=true&theme=tokyonight" height="160" style="border-radius:10px;"/>
+  <!-- GitHub Overall Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=OussamaGhazi12&show_icons=true&theme=dark&hide_title=true&hide_border=false&count_private=true&bg_color=0d1117&text_color=c9d1d9&icon_color=58a6ff" height="160" style="border-radius:10px;"/>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OussamaGhazi12&layout=compact&theme=tokyonight" height="160" style="border-radius:10px;"/>
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OussamaGhazi12&layout=compact&theme=dark&hide_title=true&hide_border=false&bg_color=0d1117&text_color=c9d1d9&langs_count=6" height="160" style="border-radius:10px;"/>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OussamaGhazi12&theme=tokyonight" height="160" style="border-radius:10px;"/>
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OussamaGhazi12&theme=dark&hide_border=false&background=0d1117&stroke=58a6ff&fire=ff7b72&currStreakNum=c9d1d9&sideNums=58a6ff" height="160" style="border-radius:10px;"/>
 
 </div>
+
 
 
 

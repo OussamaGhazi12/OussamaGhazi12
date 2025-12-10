@@ -96,15 +96,18 @@ A complete company website with:
 ---
 
 
-## 📈 GitHub Overview (Stable — No External API)
+## 📈 GitHub Stats & Activity
 
-<div align="center">
+<div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:20px;">
 
-| 📊 Overall Activity | 🔥 Commit Heatmap | 🧭 Profile Summary |
-|--------------------|------------------|-------------------|
-| <img src="https://github-readme-stats.vercel.app/api?username=OussamaGhazi12&show_icons=true&theme=tokyonight&hide_border=true" height="165"/> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=OussamaGhazi12&theme=tokyonight&hide_border=true" height="165"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OussamaGhazi12&layout=compact&theme=tokyonight&hide_border=true" height="165"/> |
+  <img src="https://github-readme-stats.vercel.app/api?username=OussamaGhazi12&show_icons=true&theme=tokyonight" height="160" style="border-radius:10px;"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OussamaGhazi12&layout=compact&theme=tokyonight" height="160" style="border-radius:10px;"/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OussamaGhazi12&theme=tokyonight" height="160" style="border-radius:10px;"/>
 
 </div>
+
 
 
 

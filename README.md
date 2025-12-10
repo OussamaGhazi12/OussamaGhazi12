@@ -65,7 +65,34 @@ I love designing clean architectures, solving real problems, and delivering mode
 
 ---
 
-## 📂 Featured Projects ### 🔹 **WordPress Custom Theme + Kommo API Integration** A complete company website with: - Custom theme (PHP + JS) - Contact form → Database + Kommo CRM - Admin dashboard + Excel export - UX improvements & animations - Deployment on **inspirigence.tech** --- ### 🔹 **Advanced Laravel API Starter** - Sanctum / JWT - Repository Pattern - Custom Exceptions - Rate Limiting / Caching - Clean folder structure --- ### 🔹 **Garage Management System (Laravel + React)** - Reservations - Product management - Categories + filters - Admin panel - API communication
+## 📂 Featured Projects
+
+### 🔹 **WordPress Custom Theme + Kommo API Integration**
+A complete company website with:
+- Custom theme (PHP + JS)
+- Contact form → Database + Kommo CRM  
+- Admin dashboard + Excel export  
+- UX improvements & animations  
+- Deployment on **inspirigence.tech**
+
+---
+
+### 🔹 **Advanced Laravel API Starter**
+- Sanctum / JWT  
+- Repository Pattern  
+- Custom Exceptions  
+- Rate Limiting / Caching  
+- Clean folder structure  
+
+---
+
+### 🔹 **Garage Management System (Laravel + React)**
+- Reservations  
+- Product management  
+- Categories + filters  
+- Admin panel  
+- API communication  
+
 ---
 
 

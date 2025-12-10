@@ -94,22 +94,20 @@ A complete company website with:
 - API communication  
 
 ---
+
+
 ## 📈 GitHub Stats & Activity
 
-<p align="center">
-  <!-- GitHub general stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=OussamaGhazi12&show_icons=true&theme=tokyonight" style="max-width:100%; margin-bottom:12px;">
-</p>
+<div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:20px;">
 
-<p align="center">
-  <!-- Top languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OussamaGhazi12&layout=compact&theme=tokyonight" style="max-width:100%; margin-bottom:12px;">
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=OussamaGhazi12&show_icons=true&theme=tokyonight" height="160" style="border-radius:10px;"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OussamaGhazi12&layout=compact&theme=tokyonight" height="160" style="border-radius:10px;"/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OussamaGhazi12&theme=tokyonight" height="160" style="border-radius:10px;"/>
 
-<p align="center">
-  <!-- Streak stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OussamaGhazi12&theme=tokyonight" style="max-width:100%;">
-</p>
+</div>
+
 
 
 ## 📫 Contact

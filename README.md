@@ -99,19 +99,7 @@ A complete company website with:
 ## 📈 GitHub Stats & Activity
 
 <div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:20px;">
-
-  <img 
-    src="https://streak-stats.demolab.com?user=OussamaGhazi12&theme=tokyonight&hide_border=false" 
-    height="160" 
-    style="
-      border-radius:10px;
-      animation: fadeIn 1.5s ease-in-out;
-      transition: transform 0.3s ease;
-    "
-    onmouseover="this.style.transform='scale(1.05)'"
-    onmouseout="this.style.transform='scale(1)'"
-  />
-
+  <img src="https://streak-stats.demolab.com?user=OussamaGhazi12&theme=tokyonight&hide_border=false" height="160" style="border-radius:10px;"/>
 </div>
 
 

@@ -107,28 +107,24 @@ A complete company website with:
 
 <div align="center">
 
-  <!-- GitHub Summary Cards -->
-  <a href="https://github.com/OussamaGhazi12">
-    <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32%" />
-    <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32%" />
-    <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32%" />
-  </a>
+<!-- 1) General GitHub stats (dynamic, shows stars, commits, PRs, etc.) -->
+<img src="https://github-readme-stats.vercel.app/api?username=OussamaGhazi12&show_icons=true&theme=tokyonight&count_private=true" width="48%" alt="GitHub Stats" />
 
-  <br/><br/>
+<!-- 2) Top languages (dynamic, shows languages by bytes) -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OussamaGhazi12&layout=compact&theme=tokyonight&langs_count=8" width="48%" alt="Top Languages" />
 
-  <!-- More Stats -->
-  <details>
-    <summary><strong>📊 Show More Stats</strong></summary>
-    <br/>
-    <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg" width="90%" />
-  </details>
+<br/><br/>
 
-  <br/>
+<!-- 3) Contribution graph (nice visual of commits over the year) -->
+<img src="https://ghchart.rshah.org/OussamaGhazi12" width="90%" alt="GitHub Contribution Graph" />
 
-  <!-- Streak Stats -->
-  <img src="https://streak-stats.demolab.com?user=OussamaGhazi12&theme=tokyonight&hide_border=false" height="160" />
+<br/><br/>
+
+<!-- 4) Streak / activity badges -->
+<img src="https://streak-stats.demolab.com?user=OussamaGhazi12&theme=tokyonight&hide_border=false" height="140" alt="GitHub Streak" />
 
 </div>
+
 
 
 

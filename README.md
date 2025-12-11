@@ -103,29 +103,10 @@ A complete company website with:
 
 
 ## 📈 GitHub Stats & Activity
----
 
-<div align="center">
-
-<!-- 1) General GitHub stats (dynamic, shows stars, commits, PRs, etc.) -->
-<img src="https://github-readme-stats.vercel.app/api?username=OussamaGhazi12&show_icons=true&theme=tokyonight&count_private=true" width="48%" alt="GitHub Stats" />
-
-<!-- 2) Top languages (dynamic, shows languages by bytes) -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OussamaGhazi12&layout=compact&theme=tokyonight&langs_count=8" width="48%" alt="Top Languages" />
-
-<br/><br/>
-
-<!-- 3) Contribution graph (nice visual of commits over the year) -->
-<img src="https://ghchart.rshah.org/OussamaGhazi12" width="90%" alt="GitHub Contribution Graph" />
-
-<br/><br/>
-
-<!-- 4) Streak / activity badges -->
-<img src="https://streak-stats.demolab.com?user=OussamaGhazi12&theme=tokyonight&hide_border=false" height="140" alt="GitHub Streak" />
-
+<div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:20px;">
+  <img src="https://streak-stats.demolab.com?user=OussamaGhazi12&theme=tokyonight&hide_border=false" height="160" style="border-radius:10px;"/>
 </div>
-
-
 
 
 

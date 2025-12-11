@@ -9,6 +9,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&size=22&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Laravel+%7C+React+%7C+Node.js;API+Engineering+%7C+Clean+Architecture;WordPress+Themes+%7C+DevOps+Beginner;Always+Learning+%26+Building+🚀">
 </p>
 
+<p align="center">
+  <a href="https://your-portfolio-link.com" target="_blank">
+    <img src="https://img.shields.io/badge/View%20My%20Work-🚀-blue?style=for-the-badge&logo=github" alt="View My Work">
+  </a>
+</p>
+
 ---
 
 ## 🚀 About Me

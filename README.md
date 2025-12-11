@@ -104,9 +104,31 @@ A complete company website with:
 
 ## 📈 GitHub Stats & Activity
 
-<div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:20px;">
-  <img src="https://streak-stats.demolab.com?user=OussamaGhazi12&theme=tokyonight&hide_border=false" height="160" style="border-radius:10px;"/>
+<div align="center">
+
+<!-- 3 Cards -->
+<a href="https://github.com/OussamaGhazi12">
+  <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="33%" />
+  <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="33%" />
+  <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="33%" />
+</a>
+
+<br/><br/>
+
+<!-- Details -->
+<details>
+  <summary><strong>More stats</strong></summary>
+  <br/>
+  <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg" width="90%" />
+</details>
+
+<br/>
+
+<!-- Streak -->
+<img src="https://streak-stats.demolab.com?user=OussamaGhazi12&theme=tokyonight&hide_border=false" height="160" />
+
 </div>
+
 
 
 

@@ -121,7 +121,7 @@ A complete company website with:
 ## 📫 Contact
 
 - 📧 Email: **oussama.ghazi2003@gmail.com**
-- 💼 LinkedIn: [linkedin.com/in/oussama-ghazi-686874359](https://www.linkedin.com/in/oussama-ghazi/)
+- 💼 LinkedIn: [linkedin.com/in/oussama-ghazi](https://www.linkedin.com/in/oussama-ghazi/)
 - 🌍 Portfolio: *coming soon*
 
 

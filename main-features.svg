@@ -1,0 +1,709 @@
+<svg width="1200" height="700" viewBox="0 0 1200 700"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+
+    <!-- Background -->
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#020617"/>
+      <stop offset="50%" stop-color="#071126"/>
+      <stop offset="100%" stop-color="#020617"/>
+    </linearGradient>
+
+    <!-- Gradients -->
+    <linearGradient id="blue" x1="0" x2="1">
+      <stop offset="0%" stop-color="#00d9ff"/>
+      <stop offset="100%" stop-color="#6366f1"/>
+    </linearGradient>
+
+    <linearGradient id="purple" x1="0" x2="1">
+      <stop offset="0%" stop-color="#8b5cf6"/>
+      <stop offset="100%" stop-color="#ec4899"/>
+    </linearGradient>
+
+    <linearGradient id="green" x1="0" x2="1">
+      <stop offset="0%" stop-color="#22c55e"/>
+      <stop offset="100%" stop-color="#84cc16"/>
+    </linearGradient>
+
+    <linearGradient id="orange" x1="0" x2="1">
+      <stop offset="0%" stop-color="#f97316"/>
+      <stop offset="100%" stop-color="#facc15"/>
+    </linearGradient>
+
+    <!-- Glow -->
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Strong Glow -->
+    <filter id="strongGlow">
+      <feGaussianBlur stdDeviation="10" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Card shadow -->
+    <filter id="shadow">
+      <feDropShadow dx="0" dy="5" stdDeviation="10"
+                    flood-color="#000000"
+                    flood-opacity="0.5"/>
+    </filter>
+
+  </defs>
+
+  <!-- ================================= -->
+  <!-- BACKGROUND -->
+  <!-- ================================= -->
+
+  <rect width="1200" height="700" rx="25" fill="url(#bg)"/>
+
+  <!-- Animated background particles -->
+
+  <g fill="#38bdf8" opacity="0.4">
+
+    <circle cx="100" cy="100" r="2">
+      <animate attributeName="opacity"
+               values="0.1;1;0.1"
+               dur="3s"
+               repeatCount="indefinite"/>
+    </circle>
+
+    <circle cx="1050" cy="120" r="2">
+      <animate attributeName="opacity"
+               values="1;0.1;1"
+               dur="4s"
+               repeatCount="indefinite"/>
+    </circle>
+
+    <circle cx="950" cy="580" r="2">
+      <animate attributeName="opacity"
+               values="0.1;1;0.1"
+               dur="2s"
+               repeatCount="indefinite"/>
+    </circle>
+
+    <circle cx="200" cy="600" r="2">
+      <animate attributeName="opacity"
+               values="1;0.1;1"
+               dur="3.5s"
+               repeatCount="indefinite"/>
+    </circle>
+
+  </g>
+
+
+  <!-- ================================= -->
+  <!-- TITLE -->
+  <!-- ================================= -->
+
+  <text x="600"
+        y="55"
+        text-anchor="middle"
+        font-family="Arial, sans-serif"
+        font-size="34"
+        font-weight="bold"
+        fill="white">
+
+    🚀 Main Features
+
+    <animate
+      attributeName="opacity"
+      values="0.5;1;0.5"
+      dur="3s"
+      repeatCount="indefinite"/>
+
+  </text>
+
+  <line x1="480" y1="75"
+        x2="720" y2="75"
+        stroke="url(#blue)"
+        stroke-width="3"
+        filter="url(#glow)">
+
+    <animate
+      attributeName="x1"
+      values="480;530;480"
+      dur="3s"
+      repeatCount="indefinite"/>
+
+  </line>
+
+
+  <!-- ================================= -->
+  <!-- CONNECTING MAIN LINE -->
+  <!-- ================================= -->
+
+  <line x1="600" y1="155"
+        x2="600" y2="510"
+        stroke="#38bdf8"
+        stroke-width="3"
+        stroke-dasharray="8 12"
+        filter="url(#glow)">
+
+    <animate
+      attributeName="stroke-dashoffset"
+      from="0"
+      to="-40"
+      dur="1s"
+      repeatCount="indefinite"/>
+
+  </line>
+
+
+  <!-- ================================= -->
+  <!-- CARD 1 -->
+  <!-- ================================= -->
+
+  <g filter="url(#shadow)">
+
+    <rect x="400" y="100"
+          width="400"
+          height="75"
+          rx="18"
+          fill="#071426"
+          stroke="#00d9ff"
+          stroke-width="2"/>
+
+    <circle cx="445" cy="137"
+            r="25"
+            fill="#061d31"
+            stroke="#00d9ff"
+            stroke-width="2"
+            filter="url(#glow)">
+
+      <animateTransform
+        attributeName="transform"
+        type="rotate"
+        from="0 445 137"
+        to="360 445 137"
+        dur="4s"
+        repeatCount="indefinite"/>
+
+    </circle>
+
+    <text x="445" y="146"
+          text-anchor="middle"
+          font-size="22"
+          fill="#00d9ff">
+      🔐
+    </text>
+
+    <text x="490" y="128"
+          font-family="Arial"
+          font-size="13"
+          fill="#00d9ff"
+          font-weight="bold">
+      01
+    </text>
+
+    <text x="490" y="151"
+          font-family="Arial"
+          font-size="19"
+          fill="white"
+          font-weight="bold">
+      Authentication
+    </text>
+
+  </g>
+
+
+  <!-- ================================= -->
+  <!-- CARD 2 -->
+  <!-- ================================= -->
+
+  <g filter="url(#shadow)">
+
+    <rect x="400" y="190"
+          width="400"
+          height="75"
+          rx="18"
+          fill="#071426"
+          stroke="#22c55e"
+          stroke-width="2"/>
+
+    <circle cx="445" cy="227"
+            r="25"
+            fill="#071d16"
+            stroke="#22c55e"
+            stroke-width="2"
+            filter="url(#glow)">
+
+      <animateTransform
+        attributeName="transform"
+        type="rotate"
+        from="360 445 227"
+        to="0 445 227"
+        dur="5s"
+        repeatCount="indefinite"/>
+
+    </circle>
+
+    <text x="445" y="236"
+          text-anchor="middle"
+          font-size="22">
+      🛡️
+    </text>
+
+    <text x="490" y="218"
+          font-family="Arial"
+          font-size="13"
+          fill="#22c55e"
+          font-weight="bold">
+      02
+    </text>
+
+    <text x="490" y="241"
+          font-family="Arial"
+          font-size="18"
+          fill="white"
+          font-weight="bold">
+      Role-Based Access Control
+    </text>
+
+  </g>
+
+
+  <!-- ================================= -->
+  <!-- CARD 3 -->
+  <!-- ================================= -->
+
+  <g filter="url(#shadow)">
+
+    <rect x="400" y="280"
+          width="400"
+          height="75"
+          rx="18"
+          fill="#071426"
+          stroke="#a855f7"
+          stroke-width="2"/>
+
+    <circle cx="445" cy="317"
+            r="25"
+            fill="#171029"
+            stroke="#a855f7"
+            stroke-width="2"
+            filter="url(#glow)">
+
+      <animate
+        attributeName="r"
+        values="22;27;22"
+        dur="2s"
+        repeatCount="indefinite"/>
+
+    </circle>
+
+    <text x="445" y="325"
+          text-anchor="middle"
+          font-size="21">
+      &lt;/&gt;
+    </text>
+
+    <text x="490" y="308"
+          font-family="Arial"
+          font-size="13"
+          fill="#a855f7"
+          font-weight="bold">
+      03
+    </text>
+
+    <text x="490" y="331"
+          font-family="Arial"
+          font-size="19"
+          fill="white"
+          font-weight="bold">
+      REST API
+    </text>
+
+  </g>
+
+
+  <!-- ================================= -->
+  <!-- CARD 4 -->
+  <!-- ================================= -->
+
+  <g filter="url(#shadow)">
+
+    <rect x="400" y="370"
+          width="400"
+          height="75"
+          rx="18"
+          fill="#071426"
+          stroke="#f97316"
+          stroke-width="2"/>
+
+    <circle cx="445" cy="407"
+            r="25"
+            fill="#241508"
+            stroke="#f97316"
+            stroke-width="2"
+            filter="url(#glow)">
+
+      <animateTransform
+        attributeName="transform"
+        type="rotate"
+        from="0 445 407"
+        to="360 445 407"
+        dur="6s"
+        repeatCount="indefinite"/>
+
+    </circle>
+
+    <text x="445" y="415"
+          text-anchor="middle"
+          font-size="22">
+      ⚙️
+    </text>
+
+    <text x="490" y="398"
+          font-family="Arial"
+          font-size="13"
+          fill="#f97316"
+          font-weight="bold">
+      04
+    </text>
+
+    <text x="490" y="421"
+          font-family="Arial"
+          font-size="19"
+          fill="white"
+          font-weight="bold">
+      Business Logic
+    </text>
+
+  </g>
+
+
+  <!-- ================================= -->
+  <!-- BOTTOM CONNECTIONS -->
+  <!-- ================================= -->
+
+  <path d="M600 445 L600 475 L180 475 L180 510"
+        fill="none"
+        stroke="#ff4d4d"
+        stroke-width="3"
+        stroke-dasharray="10 10"
+        filter="url(#glow)">
+
+    <animate
+      attributeName="stroke-dashoffset"
+      from="0"
+      to="-60"
+      dur="1.2s"
+      repeatCount="indefinite"/>
+
+  </path>
+
+  <path d="M600 445 L600 475 L430 475 L430 510"
+        fill="none"
+        stroke="#00d9ff"
+        stroke-width="3"
+        stroke-dasharray="10 10"
+        filter="url(#glow)">
+
+    <animate
+      attributeName="stroke-dashoffset"
+      from="0"
+      to="-60"
+      dur="1s"
+      repeatCount="indefinite"/>
+
+  </path>
+
+  <path d="M600 445 L600 475 L770 475 L770 510"
+        fill="none"
+        stroke="#facc15"
+        stroke-width="3"
+        stroke-dasharray="10 10"
+        filter="url(#glow)">
+
+    <animate
+      attributeName="stroke-dashoffset"
+      from="0"
+      to="-60"
+      dur="1.3s"
+      repeatCount="indefinite"/>
+
+  </path>
+
+  <path d="M600 445 L600 475 L1020 475 L1020 510"
+        fill="none"
+        stroke="#22c55e"
+        stroke-width="3"
+        stroke-dasharray="10 10"
+        filter="url(#glow)">
+
+    <animate
+      attributeName="stroke-dashoffset"
+      from="0"
+      to="-60"
+      dur="1.5s"
+      repeatCount="indefinite"/>
+
+  </path>
+
+
+  <!-- ================================= -->
+  <!-- CARD 5 -->
+  <!-- ================================= -->
+
+  <g filter="url(#shadow)">
+
+    <rect x="55" y="510"
+          width="250"
+          height="85"
+          rx="18"
+          fill="#071426"
+          stroke="#ff4d4d"
+          stroke-width="2"/>
+
+    <text x="80" y="540"
+          font-family="Arial"
+          font-size="13"
+          fill="#ff4d4d"
+          font-weight="bold">
+      05
+    </text>
+
+    <text x="80" y="565"
+          font-family="Arial"
+          font-size="17"
+          fill="white"
+          font-weight="bold">
+      Celery + Redis
+    </text>
+
+    <text x="80" y="584"
+          font-family="Arial"
+          font-size="12"
+          fill="#94a3b8">
+      Async processing
+    </text>
+
+    <circle cx="270" cy="550"
+            r="7"
+            fill="#ff4d4d"
+            filter="url(#strongGlow)">
+
+      <animate
+        attributeName="r"
+        values="5;11;5"
+        dur="1.5s"
+        repeatCount="indefinite"/>
+
+    </circle>
+
+  </g>
+
+
+  <!-- ================================= -->
+  <!-- CARD 6 -->
+  <!-- ================================= -->
+
+  <g filter="url(#shadow)">
+
+    <rect x="325" y="510"
+          width="250"
+          height="85"
+          rx="18"
+          fill="#071426"
+          stroke="#00d9ff"
+          stroke-width="2"/>
+
+    <text x="350" y="540"
+          font-family="Arial"
+          font-size="13"
+          fill="#00d9ff"
+          font-weight="bold">
+      06
+    </text>
+
+    <text x="350" y="565"
+          font-family="Arial"
+          font-size="17"
+          fill="white"
+          font-weight="bold">
+      Real-Time SSE
+    </text>
+
+    <text x="350" y="584"
+          font-family="Arial"
+          font-size="12"
+          fill="#94a3b8">
+      Live updates
+    </text>
+
+    <circle cx="540" cy="550"
+            r="7"
+            fill="#00d9ff"
+            filter="url(#strongGlow)">
+
+      <animate
+        attributeName="r"
+        values="5;11;5"
+        dur="1.2s"
+        repeatCount="indefinite"/>
+
+    </circle>
+
+  </g>
+
+
+  <!-- ================================= -->
+  <!-- CARD 7 -->
+  <!-- ================================= -->
+
+  <g filter="url(#shadow)">
+
+    <rect x="595" y="510"
+          width="250"
+          height="85"
+          rx="18"
+          fill="#071426"
+          stroke="#facc15"
+          stroke-width="2"/>
+
+    <text x="620" y="540"
+          font-family="Arial"
+          font-size="13"
+          fill="#facc15"
+          font-weight="bold">
+      07
+    </text>
+
+    <text x="620" y="565"
+          font-family="Arial"
+          font-size="17"
+          fill="white"
+          font-weight="bold">
+      Stripe + Webhooks
+    </text>
+
+    <text x="620" y="584"
+          font-family="Arial"
+          font-size="12"
+          fill="#94a3b8">
+      Secure payments
+    </text>
+
+    <circle cx="810" cy="550"
+            r="7"
+            fill="#facc15"
+            filter="url(#strongGlow)">
+
+      <animate
+        attributeName="r"
+        values="5;11;5"
+        dur="1.3s"
+        repeatCount="indefinite"/>
+
+    </circle>
+
+  </g>
+
+
+  <!-- ================================= -->
+  <!-- CARD 8 -->
+  <!-- ================================= -->
+
+  <g filter="url(#shadow)">
+
+    <rect x="870" y="510"
+          width="250"
+          height="85"
+          rx="18"
+          fill="#071426"
+          stroke="#22c55e"
+          stroke-width="2"/>
+
+    <text x="895" y="540"
+          font-family="Arial"
+          font-size="13"
+          fill="#22c55e"
+          font-weight="bold">
+      08
+    </text>
+
+    <text x="895" y="565"
+          font-family="Arial"
+          font-size="17"
+          fill="white"
+          font-weight="bold">
+      Google Maps
+    </text>
+
+    <text x="895" y="584"
+          font-family="Arial"
+          font-size="12"
+          fill="#94a3b8">
+      Geolocation
+    </text>
+
+    <circle cx="1085" cy="550"
+            r="7"
+            fill="#22c55e"
+            filter="url(#strongGlow)">
+
+      <animate
+        attributeName="r"
+        values="5;11;5"
+        dur="1.6s"
+        repeatCount="indefinite"/>
+
+    </circle>
+
+  </g>
+
+
+  <!-- ================================= -->
+  <!-- ANIMATED ENERGY PARTICLE -->
+  <!-- ================================= -->
+
+  <circle cx="600" cy="120"
+          r="6"
+          fill="#00d9ff"
+          filter="url(#strongGlow)">
+
+    <animate
+      attributeName="cy"
+      values="120;430;120"
+      dur="4s"
+      repeatCount="indefinite"/>
+
+    <animate
+      attributeName="opacity"
+      values="1;0.2;1"
+      dur="4s"
+      repeatCount="indefinite"/>
+
+  </circle>
+
+
+  <!-- ================================= -->
+  <!-- FOOTER -->
+  <!-- ================================= -->
+
+  <text x="600"
+        y="650"
+        text-anchor="middle"
+        font-family="Arial"
+        font-size="15"
+        fill="#94a3b8">
+
+    ⚡ All components work together seamlessly
+
+    <animate
+      attributeName="opacity"
+      values="0.4;1;0.4"
+      dur="3s"
+      repeatCount="indefinite"/>
+
+  </text>
+
+</svg>

@@ -1,6 +1,6 @@
-<svg width="1000" height="360"
-viewBox="0 0 1000 360"
-xmlns="http://www.w3.org/2000/svg">
+<svg width="850" height="300"
+     viewBox="0 0 850 300"
+     xmlns="http://www.w3.org/2000/svg">
 
 <defs>
 
@@ -10,143 +10,170 @@ xmlns="http://www.w3.org/2000/svg">
 </linearGradient>
 
 <filter id="glow">
-  <feGaussianBlur stdDeviation="3"/>
+  <feGaussianBlur stdDeviation="2.5"/>
 </filter>
 
 </defs>
 
-<rect width="1000"
-      height="360"
-      rx="24"
+<!-- BACKGROUND -->
+<rect width="850"
+      height="300"
+      rx="20"
       fill="url(#bg)"
       stroke="#1e293b"/>
 
-<text x="40"
-      y="50"
+
+<!-- TITLE -->
+<text x="32"
+      y="42"
       fill="white"
-      font-family="Arial"
-      font-size="24"
+      font-family="Arial, sans-serif"
+      font-size="20"
       font-weight="bold">
   📈 Development Activity
 </text>
 
-<text x="40"
-      y="75"
+<text x="32"
+      y="64"
       fill="#64748b"
-      font-family="Arial"
-      font-size="13">
+      font-family="Arial, sans-serif"
+      font-size="11">
   Coding activity visualization
 </text>
 
 
-<!-- GRAPH AREA -->
+<!-- GRAPH AXIS -->
 
-<line x1="70"
-      y1="280"
-      x2="930"
-      y2="280"
+<line x1="58"
+      y1="235"
+      x2="790"
+      y2="235"
       stroke="#1e293b"/>
 
-<line x1="70"
-      y1="100"
-      x2="70"
-      y2="280"
+<line x1="58"
+      y1="85"
+      x2="58"
+      y2="235"
       stroke="#1e293b"/>
 
 
 <!-- AREA -->
 
 <path
-d="M70 260
-   L130 235
-   L190 250
-   L250 180
-   L310 210
-   L370 150
-   L430 190
-   L490 120
-   L550 160
-   L610 135
-   L670 175
-   L730 110
-   L790 145
-   L850 100
-   L930 125
-   L930 280
-   L70 280 Z"
+d="M58 218
+   L110 197
+   L162 210
+   L214 152
+   L266 177
+   L318 127
+   L370 160
+   L422 102
+   L474 135
+   L526 114
+   L578 147
+   L630 94
+   L682 123
+   L734 85
+   L790 106
+   L790 235
+   L58 235 Z"
 fill="#00d9ff"
-opacity="0.08"/>
+opacity="0.07"/>
 
 
-<!-- LINE -->
+<!-- GLOW LINE -->
 
 <polyline
 points="
-70,260
-130,235
-190,250
-250,180
-310,210
-370,150
-430,190
-490,120
-550,160
-610,135
-670,175
-730,110
-790,145
-850,100
-930,125"
+58,218
+110,197
+162,210
+214,152
+266,177
+318,127
+370,160
+422,102
+474,135
+526,114
+578,147
+630,94
+682,123
+734,85
+790,106"
 fill="none"
 stroke="#00d9ff"
-stroke-width="3"
+stroke-width="2.5"
 filter="url(#glow)">
 
 <animate
 attributeName="stroke-dasharray"
-from="0,2000"
-to="2000,0"
+from="0,1800"
+to="1800,0"
 dur="3s"
 fill="freeze"/>
 
 </polyline>
 
 
+<!-- MAIN LINE -->
+
+<polyline
+points="
+58,218
+110,197
+162,210
+214,152
+266,177
+318,127
+370,160
+422,102
+474,135
+526,114
+578,147
+630,94
+682,123
+734,85
+790,106"
+fill="none"
+stroke="#00d9ff"
+stroke-width="2"/>
+
+
 <!-- POINTS -->
 
 <g fill="#00d9ff">
 
-<circle cx="70" cy="260" r="5">
+<circle cx="58" cy="218" r="4">
 <animate attributeName="r"
-values="4;9;4"
+values="3;7;3"
 dur="2s"
 repeatCount="indefinite"/>
 </circle>
 
-<circle cx="250" cy="180" r="5">
+<circle cx="214" cy="152" r="4">
 <animate attributeName="r"
-values="4;9;4"
+values="3;7;3"
 dur="2.2s"
 repeatCount="indefinite"/>
 </circle>
 
-<circle cx="490" cy="120" r="5">
+<circle cx="422" cy="102" r="4">
 <animate attributeName="r"
-values="4;9;4"
+values="3;7;3"
 dur="1.8s"
 repeatCount="indefinite"/>
 </circle>
 
-<circle cx="730" cy="110" r="5">
+<circle cx="630" cy="94" r="4">
 <animate attributeName="r"
-values="4;9;4"
+values="3;7;3"
 dur="2.4s"
 repeatCount="indefinite"/>
 </circle>
 
-<circle cx="930" cy="125" r="5">
+<circle cx="790" cy="106" r="4">
 <animate attributeName="r"
-values="4;9;4"
+values="3;7;3"
 dur="2s"
 repeatCount="indefinite"/>
 </circle>
@@ -156,25 +183,28 @@ repeatCount="indefinite"/>
 
 <!-- LABELS -->
 
-<text x="70" y="310"
-fill="#64748b"
-font-family="Arial"
-font-size="12">
-Start
+<text x="58"
+      y="260"
+      fill="#64748b"
+      font-family="Arial, sans-serif"
+      font-size="10">
+  Start
 </text>
 
-<text x="465" y="310"
-fill="#64748b"
-font-family="Arial"
-font-size="12">
-Development Journey
+<text x="360"
+      y="260"
+      fill="#64748b"
+      font-family="Arial, sans-serif"
+      font-size="10">
+  Development Journey
 </text>
 
-<text x="875" y="310"
-fill="#64748b"
-font-family="Arial"
-font-size="12">
-Today
+<text x="750"
+      y="260"
+      fill="#64748b"
+      font-family="Arial, sans-serif"
+      font-size="10">
+  Today
 </text>
 
 </svg>

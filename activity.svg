@@ -1,0 +1,180 @@
+<svg width="1000" height="360"
+viewBox="0 0 1000 360"
+xmlns="http://www.w3.org/2000/svg">
+
+<defs>
+
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0%" stop-color="#020617"/>
+  <stop offset="100%" stop-color="#0f172a"/>
+</linearGradient>
+
+<filter id="glow">
+  <feGaussianBlur stdDeviation="3"/>
+</filter>
+
+</defs>
+
+<rect width="1000"
+      height="360"
+      rx="24"
+      fill="url(#bg)"
+      stroke="#1e293b"/>
+
+<text x="40"
+      y="50"
+      fill="white"
+      font-family="Arial"
+      font-size="24"
+      font-weight="bold">
+  📈 Development Activity
+</text>
+
+<text x="40"
+      y="75"
+      fill="#64748b"
+      font-family="Arial"
+      font-size="13">
+  Coding activity visualization
+</text>
+
+
+<!-- GRAPH AREA -->
+
+<line x1="70"
+      y1="280"
+      x2="930"
+      y2="280"
+      stroke="#1e293b"/>
+
+<line x1="70"
+      y1="100"
+      x2="70"
+      y2="280"
+      stroke="#1e293b"/>
+
+
+<!-- AREA -->
+
+<path
+d="M70 260
+   L130 235
+   L190 250
+   L250 180
+   L310 210
+   L370 150
+   L430 190
+   L490 120
+   L550 160
+   L610 135
+   L670 175
+   L730 110
+   L790 145
+   L850 100
+   L930 125
+   L930 280
+   L70 280 Z"
+fill="#00d9ff"
+opacity="0.08"/>
+
+
+<!-- LINE -->
+
+<polyline
+points="
+70,260
+130,235
+190,250
+250,180
+310,210
+370,150
+430,190
+490,120
+550,160
+610,135
+670,175
+730,110
+790,145
+850,100
+930,125"
+fill="none"
+stroke="#00d9ff"
+stroke-width="3"
+filter="url(#glow)">
+
+<animate
+attributeName="stroke-dasharray"
+from="0,2000"
+to="2000,0"
+dur="3s"
+fill="freeze"/>
+
+</polyline>
+
+
+<!-- POINTS -->
+
+<g fill="#00d9ff">
+
+<circle cx="70" cy="260" r="5">
+<animate attributeName="r"
+values="4;9;4"
+dur="2s"
+repeatCount="indefinite"/>
+</circle>
+
+<circle cx="250" cy="180" r="5">
+<animate attributeName="r"
+values="4;9;4"
+dur="2.2s"
+repeatCount="indefinite"/>
+</circle>
+
+<circle cx="490" cy="120" r="5">
+<animate attributeName="r"
+values="4;9;4"
+dur="1.8s"
+repeatCount="indefinite"/>
+</circle>
+
+<circle cx="730" cy="110" r="5">
+<animate attributeName="r"
+values="4;9;4"
+dur="2.4s"
+repeatCount="indefinite"/>
+</circle>
+
+<circle cx="930" cy="125" r="5">
+<animate attributeName="r"
+values="4;9;4"
+dur="2s"
+repeatCount="indefinite"/>
+</circle>
+
+</g>
+
+
+<!-- LABELS -->
+
+<text x="70" y="310"
+fill="#64748b"
+font-family="Arial"
+font-size="12">
+Start
+</text>
+
+<text x="465" y="310"
+fill="#64748b"
+font-family="Arial"
+font-size="12">
+Development Journey
+</text>
+
+<text x="875" y="310"
+fill="#64748b"
+font-family="Arial"
+font-size="12">
+Today
+</text>
+
+</svg>

@@ -238,18 +238,22 @@ A complete company website developed for **INSPIRIGENCE**.
 
 # 🔧 Garage Management System
 
-Modern management platform built with **Laravel + React**.
+Modern full-stack garage management platform built with
+**JavaScript, Node.js, Express.js and React**.
 
 ### Features
 
 - 📅 Reservation Management
 - 📦 Product Management
-- 🗂️ Categories
-- 🔎 Filters
+- 🗂️ Category Management
+- 🔎 Advanced Filters
 - 👨‍💼 Admin Panel
 - 🔌 REST API Communication
 - ⚛️ React Frontend
-- 🔥 Laravel Backend
+- 🟢 Node.js Backend
+- 🚀 Express.js REST API
+- 🗄️ Database Integration
+- 📊 Management Dashboard
 
 ---
 

@@ -275,15 +275,17 @@ Reusable backend architecture for scalable Laravel applications.
 
 <p align="center">
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=OussamaGhazi12&show_icons=true&theme=tokyonight&hide_border=false"
-  height="170"
-/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=OussamaGhazi12&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+    height="180"
+    alt="Oussama's GitHub Stats"
+  />
 
-<img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=OussamaGhazi12&theme=tokyonight&hide_border=false"
-  height="170"
-/>
+  <img
+    src="https://streak-stats.demolab.com?user=OussamaGhazi12&theme=tokyonight&hide_border=true"
+    height="180"
+    alt="Oussama's GitHub Streak"
+  />
 
 </p>
 
@@ -293,9 +295,11 @@ Reusable backend architecture for scalable Laravel applications.
 
 <p align="center">
 
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=OussamaGhazi12&layout=compact&theme=tokyonight&hide_border=false"
-/>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=OussamaGhazi12&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    height="180"
+    alt="Most Used Languages"
+  />
 
 </p>
 
@@ -305,9 +309,11 @@ Reusable backend architecture for scalable Laravel applications.
 
 <p align="center">
 
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=OussamaGhazi12&theme=tokyo-night&hide_border=false"
-/>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=OussamaGhazi12&theme=tokyo-night&hide_border=true&area=true"
+    width="100%"
+    alt="GitHub Activity Graph"
+  />
 
 </p>
 
@@ -315,19 +321,37 @@ Reusable backend architecture for scalable Laravel applications.
 
 # 🎯 Current Focus
 
+<div align="center">
+
 ```text
-Backend Development
-        ↓
-Django / Django REST Framework
-        ↓
-Advanced REST APIs
-        ↓
-Async Processing
-        ↓
-Celery + Redis
-        ↓
-Real-Time Systems
-        ↓
-Docker & DevOps
-        ↓
-Scalable Applications
+┌──────────────────────────────┐
+│     🚀 BACKEND DEVELOPMENT   │
+└──────────────┬───────────────┘
+               ↓
+┌──────────────────────────────┐
+│ 🐍 Django / Django REST API  │
+└──────────────┬───────────────┘
+               ↓
+┌──────────────────────────────┐
+│ 🔌 Advanced REST APIs        │
+└──────────────┬───────────────┘
+               ↓
+┌──────────────────────────────┐
+│ ⚡ Async Processing           │
+└──────────────┬───────────────┘
+               ↓
+┌──────────────────────────────┐
+│ 🔴 Celery + Redis            │
+└──────────────┬───────────────┘
+               ↓
+┌──────────────────────────────┐
+│ 📡 Real-Time Systems         │
+└──────────────┬───────────────┘
+               ↓
+┌──────────────────────────────┐
+│ 🐳 Docker & DevOps           │
+└──────────────┬───────────────┘
+               ↓
+┌──────────────────────────────┐
+│ ☁️ Scalable Applications     │
+└──────────────────────────────┘

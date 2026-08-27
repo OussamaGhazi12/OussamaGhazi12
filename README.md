@@ -4,28 +4,39 @@
 </h1>
 
 <p align="center">
-  <strong>Full Stack Developer — Backend, APIs & Modern Web Applications</strong><br>
+  <strong>Full Stack Developer — Backend, APIs & Modern Web Applications</strong>
+  <br>
   Building modern, scalable & high-performance web solutions.
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&size=22&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Python+%7C+Django+%7C+Laravel+%7C+Node.js;REST+API+Engineering;React+%7C+Redux+Toolkit;Async+Processing+%7C+Real-Time+Systems;Docker+%7C+GitLab+%7C+DevOps;Always+Learning+%26+Building+%F0%9F%9A%80">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?color=36BCF7&size=22&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Python+%7C+Django+%7C+Laravel+%7C+Node.js;REST+API+Engineering;React+%7C+Redux+Toolkit;Async+Processing+%7C+Real-Time+Systems;Docker+%7C+GitLab+%7C+DevOps;Always+Learning+%26+Building+%F0%9F%9A%80"
+    alt="Typing SVG"
+  />
 </p>
 
 <p align="center">
-  <a href="https://github.com/OussamaGhazi12">
-    <img src="https://img.shields.io/badge/GitHub-OussamaGhazi12-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/oussama-ghazi/">
-    <img src="https://img.shields.io/badge/LinkedIn-Oussama%20Ghazi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
+
+<a href="https://github.com/OussamaGhazi12">
+<img src="https://img.shields.io/badge/GitHub-OussamaGhazi12-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/oussama-ghazi/">
+<img src="https://img.shields.io/badge/LinkedIn-Oussama%20Ghazi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="mailto:oussama.ghazi2003@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-Technicien Spécialisé en Développement Informatique, spécialisé en
+I'm a **Technicien Spécialisé en Développement Informatique**, focused on
 **Backend & Full-Stack Development**.
 
 I build modern, scalable and secure web applications with a strong focus on:
@@ -36,17 +47,31 @@ I build modern, scalable and secure web applications with a strong focus on:
 - 📡 Real-time systems
 - 🔐 Authentication & authorization
 - 💳 Payment integrations
-- 🐳 Containerization & deployment
+- 🐳 Docker & deployment
 - 🎨 Modern responsive interfaces
+- 🗄️ Database design and optimization
 
 I enjoy solving real-world problems, designing clean architectures and
 continuously improving my development skills.
 
 ---
 
-## 🧠 Technical Skills
+# 🛠️ Tech Stack
 
-### 🐍 Backend & Frameworks
+## 💻 Frontend
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-CC6699?style=flat&logo=sass&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=flat&logo=redux&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap%205-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
+
+---
+
+## ⚙️ Backend & Frameworks
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
@@ -55,19 +80,11 @@ continuously improving my development skills.
 ![Laravel](https://img.shields.io/badge/Laravel-F72C1F?style=flat&logo=laravel&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
 
-### 🎨 Frontend
+---
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=flat&logo=redux&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap%205-7952B3?style=flat&logo=bootstrap&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-CC6699?style=flat&logo=sass&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
-
-### 🗄️ Databases & Caching
+## 🗄️ Databases & Caching
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
@@ -75,71 +92,68 @@ continuously improving my development skills.
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=flat&logo=phpmyadmin&logoColor=white)
 
-### 🔌 API & Integrations
+---
+
+## 🔌 API & Integrations
 
 ![REST API](https://img.shields.io/badge/REST%20API-02569B?style=flat)
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white)
-![Google Maps](https://img.shields.io/badge/Google%20Maps%20Platform-4285F4?style=flat&logo=googlemaps&logoColor=white)
+![Google Maps](https://img.shields.io/badge/Google%20Maps-4285F4?style=flat&logo=googlemaps&logoColor=white)
 ![Kommo API](https://img.shields.io/badge/Kommo%20API-5B5BF7?style=flat)
 
-### ⚡ Asynchronous & Real-Time
+---
+
+## ⚡ Asynchronous & Real-Time
 
 ![Celery](https://img.shields.io/badge/Celery-37814A?style=flat&logo=celery&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![SSE](https://img.shields.io/badge/Server--Sent%20Events-FF6B35?style=flat)
 ![Daphne](https://img.shields.io/badge/Daphne-ASGI-092E20?style=flat)
 
-### 🔐 Security
+---
+
+## 🔐 Security
 
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
 ![RBAC](https://img.shields.io/badge/RBAC-4B5563?style=flat)
 
 - JWT Authentication
 - Role-Based Access Control
-- Roles & Permissions Management
+- Roles & Permissions
 - Secure API Authentication
 - Stripe Webhooks
 
-### 🐳 DevOps & Version Control
+---
+
+## 🐳 DevOps & Version Control
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)
 
-- Docker containerization
-- Git version control
-- GitLab workflow
-- Application deployment
-- CI/CD fundamentals
+- Docker Containerization
+- Git Version Control
+- GitLab
+- Deployment
+- CI/CD Fundamentals
 
-### 🧪 Testing & API Tools
+---
+
+## 🧪 Testing & Tools
 
 ![Postman](https://img.shields.io/badge/Postman-F76935?style=flat&logo=postman&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=flat&logo=insomnia&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
-
-- API Testing
-- Automated Testing
-- pytest
-- Postman
-- Insomnia
-
-### 🛠️ Development Tools
-
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Balsamiq](https://img.shields.io/badge/Balsamiq-CC0000?style=flat)
-![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white)
 
 ---
 
-## 🏗️ Architecture & Methodologies
+# 🏗️ Architecture & Methodologies
 
-- 🧩 MVC Architecture
-- 🧩 MTV Architecture
+- 🧩 MVC
+- 🧩 MTV
 - 🏛️ Repository Pattern
 - 🧼 Clean Architecture
 - 🔌 REST API Architecture
@@ -154,44 +168,166 @@ continuously improving my development skills.
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Main Features
 
-### 🔹 Kargo — Logistics Platform
+<p align="center">
 
-A full-stack logistics platform developed during my backend/full-stack
+<img
+  src="./main-features.svg"
+  width="100%"
+  alt="Animated Main Features Architecture"
+/>
+
+</p>
+
+---
+
+# 📂 Featured Projects
+
+## 🔹 Kargo — Logistics Platform
+
+Full-stack logistics platform developed during my Backend / Full-Stack
 development internship.
 
-#### Backend
+### Backend
 
 - 🐍 Python / Django
 - 🔌 Django REST Framework
-- 🔐 RBAC for Shippers, Carriers & Admins
-- 💳 Stripe payment integration
+- 🔐 RBAC
+- 💳 Stripe Payments
 - 🪝 Stripe Webhooks
-- ⚙️ Celery workers
+- ⚡ Celery Workers
 - 🔴 Redis
-- 📡 Server-Sent Events (SSE)
+- 📡 Server-Sent Events
 - 🌐 ASGI / Daphne
 - 🗺️ Google Maps Platform
-- 🗄️ PostgreSQL
+- 🐘 PostgreSQL
 - 🐳 Docker
-- 🧪 API testing with Insomnia
+- 🧪 Insomnia API Testing
 
-#### Main Features
+### Main Features
+
+- Authentication
+- Role-Based Access Control
+- REST API
+- Business Logic
+- Asynchronous Workers
+- Real-Time Updates
+- Secure Payments
+- Geolocation
+
+---
+
+# 🌐 WordPress Custom Theme + Kommo API
+
+A complete company website developed for **INSPIRIGENCE**.
+
+### Features
+
+- 🌐 Custom WordPress Theme
+- 🎨 Frontend + Backend
+- 📩 Persistent Contact Form
+- 🔌 Kommo API Integration
+- 📊 Admin Dashboard
+- 🔎 Lead Management
+- 📤 CSV / Excel Export
+- 🎨 UX Improvements
+- 🚀 Deployment & Optimization
+
+---
+
+# 🔧 Garage Management System
+
+Modern management platform built with **Laravel + React**.
+
+### Features
+
+- 📅 Reservation Management
+- 📦 Product Management
+- 🗂️ Categories
+- 🔎 Filters
+- 👨‍💼 Admin Panel
+- 🔌 REST API Communication
+- ⚛️ React Frontend
+- 🔥 Laravel Backend
+
+---
+
+# 🧩 Advanced Laravel API Starter
+
+Reusable backend architecture for scalable Laravel applications.
+
+### Features
+
+- 🔐 JWT Authentication
+- 🏛️ Repository Pattern
+- 🧼 Clean Architecture
+- ⚠️ Custom Exceptions
+- ⚡ Rate Limiting
+- 🚀 Caching
+- 🔌 REST APIs
+- 📦 API Resources
+- 🗂️ Clean Folder Structure
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=OussamaGhazi12&show_icons=true&theme=tokyonight&hide_border=false"
+  height="170"
+/>
+
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=OussamaGhazi12&theme=tokyonight&hide_border=false"
+  height="170"
+/>
+
+</p>
+
+---
+
+# 💻 Most Used Languages
+
+<p align="center">
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=OussamaGhazi12&layout=compact&theme=tokyonight&hide_border=false"
+/>
+
+</p>
+
+---
+
+# 📈 GitHub Activity
+
+<p align="center">
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=OussamaGhazi12&theme=tokyo-night&hide_border=false"
+/>
+
+</p>
+
+---
+
+# 🎯 Current Focus
 
 ```text
-Authentication
-      ↓
-Role-Based Access Control
-      ↓
-REST API
-      ↓
-Business Logic
-      ↓
-Celery Workers + Redis
-      ↓
-Real-Time SSE
-      ↓
-Stripe Payments + Webhooks
-      ↓
-Google Maps / Geolocation
+Backend Development
+        ↓
+Django / Django REST Framework
+        ↓
+Advanced REST APIs
+        ↓
+Async Processing
+        ↓
+Celery + Redis
+        ↓
+Real-Time Systems
+        ↓
+Docker & DevOps
+        ↓
+Scalable Applications

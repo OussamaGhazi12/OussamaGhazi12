@@ -257,6 +257,30 @@ Modern full-stack garage management platform built with
 
 ---
 
+# 💼 CRM & WhatsApp Integration Platform
+
+Full-stack CRM platform developed with **Laravel**, integrating
+**WhatsApp APIs and Webhooks** to centralize customer communication,
+lead management and business operations.
+
+### Features
+
+- 👥 Customer & Contact Management
+- 💬 WhatsApp Messaging
+- 🔗 WhatsApp API Integration
+- 🪝 Webhook Handling
+- 🎯 Lead Management
+- 📊 CRM Dashboard
+- 👨‍💼 Admin Panel
+- 🔌 REST API
+- 🔎 Advanced Search & Filters
+- 📈 Business Analytics
+- 🔐 Authentication & Authorization
+- ⚡ Real-Time Communication
+- 🐳 Docker
+
+---
+
 # 🧩 Advanced Laravel API Starter
 
 Reusable backend architecture for scalable Laravel applications.

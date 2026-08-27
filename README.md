@@ -274,84 +274,47 @@ Reusable backend architecture for scalable Laravel applications.
 # 📊 GitHub Stats
 
 <p align="center">
-
   <img
-    src="https://github-readme-stats.vercel.app/api?username=OussamaGhazi12&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
-    height="180"
-    alt="Oussama's GitHub Stats"
-  />
-
-  <img
-    src="https://streak-stats.demolab.com?user=OussamaGhazi12&theme=tokyonight&hide_border=true"
-    height="180"
-    alt="Oussama's GitHub Streak"
-  />
-
-</p>
-
----
-
-# 💻 Most Used Languages
-
-<p align="center">
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=OussamaGhazi12&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-    height="180"
-    alt="Most Used Languages"
-  />
-
-</p>
-
----
-
-# 📈 GitHub Activity
-
-<p align="center">
-
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=OussamaGhazi12&theme=tokyo-night&hide_border=true&area=true"
+    src="./github-stats.svg"
     width="100%"
-    alt="GitHub Activity Graph"
+    alt="GitHub Statistics"
   />
+</p>
 
+---
+
+# 💻 Technology Stack
+
+<p align="center">
+  <img
+    src="./languages.svg"
+    width="100%"
+    alt="Technology Stack"
+  />
+</p>
+
+---
+
+# 📈 Development Activity
+
+<p align="center">
+  <img
+    src="./activity.svg"
+    width="100%"
+    alt="Development Activity"
+  />
 </p>
 
 ---
 
 # 🎯 Current Focus
 
-<div align="center">
+<p align="center">
+  <img
+    src="./current-focus.svg"
+    width="100%"
+    alt="Current Focus"
+  />
+</p>
 
-```text
-┌──────────────────────────────┐
-│     🚀 BACKEND DEVELOPMENT   │
-└──────────────┬───────────────┘
-               ↓
-┌──────────────────────────────┐
-│ 🐍 Django / Django REST API  │
-└──────────────┬───────────────┘
-               ↓
-┌──────────────────────────────┐
-│ 🔌 Advanced REST APIs        │
-└──────────────┬───────────────┘
-               ↓
-┌──────────────────────────────┐
-│ ⚡ Async Processing           │
-└──────────────┬───────────────┘
-               ↓
-┌──────────────────────────────┐
-│ 🔴 Celery + Redis            │
-└──────────────┬───────────────┘
-               ↓
-┌──────────────────────────────┐
-│ 📡 Real-Time Systems         │
-└──────────────┬───────────────┘
-               ↓
-┌──────────────────────────────┐
-│ 🐳 Docker & DevOps           │
-└──────────────┬───────────────┘
-               ↓
-┌──────────────────────────────┐
-│ ☁️ Scalable Applications     │
-└──────────────────────────────┘
+---
